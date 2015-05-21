@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Enter your word here</title>
-<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
 <script>
 $(document).ready(function(){
 	$("#word").focus();
